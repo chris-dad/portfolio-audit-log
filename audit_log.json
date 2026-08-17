@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "brand": "Chris的AI投研手记",
+  "description": "投资证据链 · 月度快照审计日志（SHA-256 指纹，git 历史不可篡改）",
+  "entries": [
+    {
+      "date": "2026-08-18",
+      "report": "portfolio_report.html",
+      "sha256": "9a0f5044a31292866fffe9b9b94e150c03e8486981626e5699e9136f132fbbce",
+      "note": "初始审计条目：投资盘口径修正后首版"
+    }
+  ]
+}
+
